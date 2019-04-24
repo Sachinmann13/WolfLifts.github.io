@@ -1,2 +1,2 @@
 a =input('enter the number')
- print(a)
+print('the number is',a)
