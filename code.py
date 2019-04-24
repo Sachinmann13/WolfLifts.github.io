@@ -1,2 +1,2 @@
 a =input('enter the number')
-print('the number is',a)
+print('the number is',32)
